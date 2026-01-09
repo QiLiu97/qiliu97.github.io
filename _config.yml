@@ -26,9 +26,9 @@ author:
   avatar           : "photo.jpg" # filename of your profile image placed in /images/ for the left-hand sidebar
   name             : "Qi Liu(刘琦)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral researcher"
   location         : "Barcelona,Spain"
-  employer         : "Red Brick University"
+  employer         : "Universitat Autònoma de Barcelona"
   uri              : # URL
   email            : "Qi.Liu@uab.cat" 
 
