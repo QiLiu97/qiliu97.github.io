@@ -38,12 +38,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=ymIC2KAAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-5183-1125"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : “https://www.researchgate.net/profile/Qi-Liu-274?ev=hdr_xprf”
   scopus           : # URL
   zotero           : # URL
 
