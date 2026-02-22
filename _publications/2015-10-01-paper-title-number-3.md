@@ -3,9 +3,9 @@ title: "An Innovative Outer-Loop Positioning Framework for LEO Doppler Observati
 collection: publications
 category: manuscripts
 permalink: 
-excerpt: 'Satellite Navigation.(Accepted for publication).'
+#excerpt: ''
 date: 2026-01-18
-venue: 'Journal 1'
+venue: 'Satellite Navigation.(Accepted for publication)'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
