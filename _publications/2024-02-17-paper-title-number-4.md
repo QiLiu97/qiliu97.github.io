@@ -3,9 +3,9 @@ title: "An Enhanced Outer-Loop LEO Doppler Positioning Framework Incorporating P
 collection: publications
 category: conferences
 permalink:
-excerpt: 'Proc. ESA Workshop on Satellite Navigation User Equipment Technologies (NAVITEC), May 2026.'
+excerpt: '.'
 date: 2026-05-01
-#venue: 'GitHub Journal of Bugs'
+venue: 'Proc. ESA Workshop on Satellite Navigation User Equipment Technologies (NAVITEC), May 2026'
 #paperurl: ''
 #citation: ''
 ---
